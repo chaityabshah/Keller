@@ -1,8 +1,8 @@
 ![alt text](http://i.imgur.com/Eo3RJaC.png)
 
 
-http://www.oldkeller.com
-######[Submission for MHacks: Refactor](devpost.com/software/keller)
+http://oldkeller.com
+######[Submission for MHacks: Refactor](http://devpost.com/software/keller)
 
 ##Inspiration
 The inspiration for Keller came to us as we began to take notice of all the things sighted people take for granted: the ability to read dollar notes, bathroom signs, room numbers, and so much more. We wanted to build an application that extended far beyond any accessibility app we have ever undertaken. Keller is just that.
